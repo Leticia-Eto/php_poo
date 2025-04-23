@@ -60,4 +60,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-Made with by Leticia-Eto.
+Made with Leticia-Eto.
